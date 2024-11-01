@@ -10,7 +10,7 @@ body{
 
 header{
     background-color: rgb(51, 51, 51);
-    padding: 30px 80px;
+    padding: 30px 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +39,7 @@ header{
 nav{
     background-color: red;
     color: white;
-    padding: 20px 50px;
+    padding: 20px 200px;
     display: flex;
     justify-content: space-between;
 }
@@ -59,7 +59,7 @@ nav a{
 .container1{
     margin: 10px 0;
     background-color: black;
-    padding: 50px;
+    padding: 50px 200px;
     color: white;
 }
 
@@ -104,7 +104,7 @@ nav a{
 }
 
 .container2{
-    padding: 50px;
+    padding: 50px 200px;
     /* columns: 300px 4; */
     background-color: rgb(78, 7, 7);
     display: flex;
@@ -193,7 +193,7 @@ nav a{
 footer{
     margin-top: 10px;
     background-color: rgb(0, 0, 0);
-    padding: 50px;
+    padding: 50px 200px;
 }
 
 .container-footer{
